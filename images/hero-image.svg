@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="624" height="624" viewBox="0 0 624 624">
+  <g id="hero-image" transform="translate(-745 -272)">
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="156" height="156" rx="23" transform="translate(1057 272)" fill="#6e00ff"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="156" height="156" rx="23" transform="translate(901 740)" fill="#fff"/>
+    <g id="Group_15" data-name="Group 15">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="156" height="156" rx="23" transform="translate(1057 584)" fill="#6e00ff"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="156" height="156" rx="23" transform="translate(1213 421)" fill="#f016ff" opacity="0.42"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="156" height="156" rx="23" transform="translate(901 428)" fill="#fff"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="156" height="156" rx="23" transform="translate(745 577)" fill="#f016ff" opacity="0.42"/>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1060 431)" fill="#ff14a9" stroke="#707070" stroke-width="1">
+        <ellipse cx="73" cy="75.5" rx="73" ry="75.5" stroke="none"/>
+        <ellipse cx="73" cy="75.5" rx="72.5" ry="75" fill="none"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(911 586)" fill="#00fff8" stroke="#707070" stroke-width="1">
+        <ellipse cx="73" cy="75.5" rx="73" ry="75.5" stroke="none"/>
+        <ellipse cx="73" cy="75.5" rx="72.5" ry="75" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
